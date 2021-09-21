@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    background-color: beige;
+}
+.cart-header{
+    width: 100%;
+    height: 62px;
+    background-color:#006eff;
+    position: absolute;
+    margin-top: -20px;
+    
+}
+.cart-logo{
+    width: 160px;
+    height: 50px;
+    padding-top: 10px;
+    margin-left: 50px;
+    float: left;
+}
+.cart-section{
+    width: 91%;
+    height: 490px;
+    background-color: #fff;
+    
+    margin-left: 60px;
+}
+.cart-image{
+    width: 100px;
+    height: 60px;
+}
+.cart-text{
+    padding-top: 12px;
+    padding-left: 20px;
+}
+.cart-text{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.cart-form{
+    float: left;
+}
+.search-bar{
+    width: 500px;
+    height: 25px;
+    margin-top: 17px;
+    margin-left: 20px;
+}
+.button{
+    width: 60px;
+    height: 30px;
+    margin-top: 17px;
+    cursor: pointer;
+    margin-left:-5px;
+    background-color: #fff;
+    border: 0;
+    font-size: 20px;
+    color: #006eff;
+}
+.login{
+    margin-left: 300px;
+    font-size: 18px;
+    color:  rgba(50, 104, 255, 0.938);
+    background-color:#fff;
+    width: 90px;
+    border: 0ch;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 30px;
+    font-weight: bold;
+}
